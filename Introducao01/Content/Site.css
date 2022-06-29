@@ -23,4 +23,13 @@ textarea {
     max-width: 280px;
 }
 
+a{
+    color:red;
+    padding:4px;
+}
+
+h2{
+    color:blue;
+}
+
 
